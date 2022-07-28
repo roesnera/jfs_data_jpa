@@ -1,5 +1,9 @@
-package com.example.jfs_data_jpa;
+package com.example.oldVersionConfig;
 
+import com.example.jfs_data_jpa.JfsDataJpaApplication;
+import com.example.jfs_data_jpa.Student;
+import com.example.jfs_data_jpa.StudentRepository;
+import com.example.jfs_data_jpa.StudentService;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
